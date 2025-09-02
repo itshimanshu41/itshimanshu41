@@ -37,7 +37,7 @@
 
 ---
 
-### 📜 Certifications *(if any, or add later)*
+### 📜 Certifications 
 - ☁️ **AWS Academy Cloud Foundations** – Amazon Web Services (2025)  
 - 🤖 **ADOBE UI/UX** – ADOBE (2025)  
 - 🛡️ **AMAZON ML SCHOOL** – Amazon (2025) 
