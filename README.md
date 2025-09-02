@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itshimanshu41&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshimanshu41&theme=radical" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=itshimanshu41&theme=radical" height="180em" />
 </p>
 
 ---
