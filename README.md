@@ -38,9 +38,9 @@
 ---
 
 ### 📜 Certifications *(if any, or add later)*
-- ☁️ **Cloud Computing Fundamentals** – *(Planned/To Add)*  
-- 🤖 **AI & ML Beginner Projects** – *(Personal/GitHub)*  
-- 🛡️ **Cybersecurity Basics** – *(To Add if available)*  
+- ☁️ **AWS Academy Cloud Foundations** – Amazon Web Services (2025)  
+- 🤖 **ADOBE UI/UX** – ADOBE (2025)  
+- 🛡️ **AMAZON ML SCHOOL** – Amazon (2025) 
 
 ---
 
