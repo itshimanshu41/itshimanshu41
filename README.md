@@ -47,24 +47,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itshimanshu41&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=7200&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=itshimanshu41&show_icons=true&theme=radical&hide_border=true&rank_icon=github&v=2"
     height="180"
   />
-
-  <!-- Streak stats (new domain) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshimanshu41&theme=radical" height="180em" />
-</p>
-
-<!-- Optional: Top languages -->
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshimanshu41&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2"
-    height="160"
-  />
+    src="https://streak-stats.demolab.com?user=itshimanshu41&theme=radical&hide_border=true&v=2"
+    height="180"/>
 </p>
----
+___
 
 ### 🌐 Connect With Me
 <p align="center">
