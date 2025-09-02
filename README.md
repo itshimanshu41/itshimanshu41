@@ -45,7 +45,6 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
   <!-- Overall stats -->
@@ -55,10 +54,7 @@
   />
 
   <!-- Streak stats (new domain) -->
-  <img
-    src="https://streak-stats.demolab.com?user=itshimanshu41&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2"
-    height="180"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshimanshu41&theme=radical" height="180em" />
 </p>
 
 <!-- Optional: Top languages -->
